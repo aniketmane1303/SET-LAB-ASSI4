@@ -20,6 +20,7 @@ void main()
     {
         puts(*(p+i));
         free(*(p+i));
+        printf("Aniket");
     }
     return;
 }
