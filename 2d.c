@@ -21,6 +21,7 @@ void main()
         puts(*(p+i));
         free(*(p+i));
         printf("Aniket Mane");
+        printf("walchand college of engineering");
     }
     return;
 }
